@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NotifSample</string>
+    <string name="notification_sent">\"%s\" sent</string>
+    <string name="simple_notif_name">Simple Notification</string>
+    <string name="simple_notif_bg_name">Simple Notification Wtih Background</string>
+    <string name="notif_extender_action_name">Notification Extender with action</string>
+    <string name="notif_extender_name">Notification Extender</string>
+    <string name="notif_click">Notification Click received</string>
+    <string name="new_resto">Lunch time?</string>
+    <string name="new_resto_desc">A new restaurant just opened! Come visit us</string>
+    <string name="notification_next_in_line">Book</string>
+    <string name="pages_notifications">Notification Extender with Pages</string>
+    <string name="menu_starters_content1">Seasonal vegetables</string>
+    <string name="menu_starters_content2">Jacketed potatoes</string>
+    <string name="menu_starters">Starters</string>
+    <string name="menu_meats">Meats</string>
+    <string name="menu_meats_content1">Filet Mignon</string>
+    <string name="menu_meats_content2">Fine Cheeseburger</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotifSample</string>
+    <string name="new_resto">L’heure d’un resto?</string>
+    <string name="new_resto_desc">Un nouveau resto vient d’ouvrir! Viens le découvrir</string>
+    <string name="notif_click">Click d\'un bouton de notification</string>
+    <string name="notif_extender_action_name">Notification Extender avec action</string>
+    <string name="notif_extender_name">Notification Extender</string>
+    <string name="notification_next_in_line">Reserver</string>
+    <string name="notification_sent">\"%s\" envoyée</string>
+    <string name="simple_notif_bg_name">Notification Simple avec Image d\'arrière plan</string>
+    <string name="simple_notif_name">Notification Simple</string>
+    <string name="pages_notifications">Notification Extender avec Pages</string>
+    <string name="menu_starters_content1">Légumes de saison</string>
+    <string name="menu_starters_content2">Pommes de terre au four</string>
+    <string name="menu_starters"><b>Entrées</b></string>
+    <string name="menu_meats"><b>Viandes</b></string>
+    <string name="menu_meats_content1">Filet Mignon</string>
+    <string name="menu_meats_content2">Cheeseburger Maison</string>
+</resources>
