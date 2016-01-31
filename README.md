@@ -2,7 +2,7 @@
 
 ## What this project is for?
 
-I have spend time to find out what's possible to do with wear notification.
+I have spent time to find out what's possible to do with wear notification.
 All samples found in this project are made to work without creating a single line of code on wear side.
 
 ## What do you show ?
