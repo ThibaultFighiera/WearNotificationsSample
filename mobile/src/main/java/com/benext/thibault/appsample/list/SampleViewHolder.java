@@ -23,6 +23,9 @@ import android.widget.TextView;
 
 import com.benext.thibault.appsample.R;
 
+/**
+ * Created by Thibault Fighiera on 30/12/2015
+ */
 public class SampleViewHolder extends RecyclerView.ViewHolder {
 
     private final TextView name;

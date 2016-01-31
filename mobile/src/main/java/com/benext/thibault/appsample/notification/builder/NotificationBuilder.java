@@ -35,6 +35,9 @@ import com.benext.thibault.appsample.notification.receiver.WearActionReceiver;
 
 import java.util.ArrayList;
 
+/**
+ * Created by Thibault Fighiera on 30/12/2015
+ */
 public class NotificationBuilder {
 
     private static final int WEAR_REQUEST_CODE = 1986;

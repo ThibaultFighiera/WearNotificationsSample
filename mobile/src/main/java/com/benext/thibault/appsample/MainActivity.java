@@ -37,6 +37,9 @@ import com.benext.thibault.appsample.notification.orders.SendSimpleNotifOrder;
 
 import java.util.ArrayList;
 
+/**
+ * Created by Thibault Fighiera on 30/12/2015
+ */
 public class MainActivity extends AppCompatActivity {
 
     private ArrayList<Order> mOrders;

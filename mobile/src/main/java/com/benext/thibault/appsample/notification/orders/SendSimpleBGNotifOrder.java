@@ -23,6 +23,9 @@ import android.support.v7.app.NotificationCompat;
 import com.benext.thibault.appsample.R;
 import com.benext.thibault.appsample.notification.builder.NotificationBuilder;
 
+/**
+ * Created by Thibault Fighiera on 30/12/2015
+ */
 public class SendSimpleBGNotifOrder implements Order {
     @Override
     public void execute(Context context) {

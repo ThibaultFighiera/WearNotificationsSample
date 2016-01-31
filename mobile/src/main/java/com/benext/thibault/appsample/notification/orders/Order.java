@@ -19,6 +19,9 @@ package com.benext.thibault.appsample.notification.orders;
 
 import android.content.Context;
 
+/**
+ * Created by Thibault Fighiera on 30/12/2015
+ */
 public interface Order {
     void execute(Context context);
 

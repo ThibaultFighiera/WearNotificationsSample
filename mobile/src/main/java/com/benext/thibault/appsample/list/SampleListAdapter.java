@@ -28,6 +28,9 @@ import com.benext.thibault.appsample.notification.orders.Order;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by Thibault Fighiera on 30/12/2015
+ */
 public class SampleListAdapter extends RecyclerView.Adapter<SampleViewHolder> {
     private final List<Order> mOrders;
 
